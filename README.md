@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti1493&label=Profile%20views&color=0e75b6&style=flat" alt="shruti1493" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti1493" alt="shruti1493" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Django RestFramework**
